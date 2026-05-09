@@ -13,7 +13,7 @@ This project is designed as a modern hotel landing page with smooth UI, animatio
 
 ## 📁 GitHub Repository
 
-👉 https://github.com/yourusername/royal-stay-hotel
+👉 https://github.com/UmarLearner/RoyalHotel-
 
 ---
 
