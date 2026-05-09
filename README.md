@@ -7,7 +7,7 @@ This project is designed as a modern hotel landing page with smooth UI, animatio
 
 ## 🌐 Live Demo
 
-👉 [Click here to view live website](https://your-netlify-link.netlify.app)
+👉 [Click here to view live website](https://royalhotelresort.netlify.app/)
 
 ---
 
